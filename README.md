@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Shiroe
 
-**Software Engineering Student | Android Developer | AI Enthusiast**
+**Software Engineering Student | Android Developer | Open Source Enthusiast**
 
 ### Technical Ecosystem
 
