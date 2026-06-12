@@ -14,8 +14,6 @@
 ## Activity Status
 
 <div style="display: flex; justify-content: center; align-content: center; height: auto;">
-   <img src="https://gh-stats-kappa.vercel.app/api?username=shiroe120&show_icons=true"
-    style="display: block; height: 100%;" />
   <img src="https://gh-stats-kappa.vercel.app/api/top-langs/?username=shiroe120&layout=compact&hide=html,css,scss"
 </div>
 
